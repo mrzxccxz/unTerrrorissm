@@ -1,0 +1,12 @@
+{
+    "isBaseRuleset": false,
+    "constants":{
+    "cityStrengthBase":0,
+    "cityStrengthPerPop":0,
+    "cityStrengthFromTechsMultiplier":0,
+    "cityStrengthFromTechsExponent":0,
+    "cityStrengthFromTechsFullMultiplier":0,
+    "cityStrengthFromGarrison":1,
+    "baseCityBombardRange":0
+}
+}

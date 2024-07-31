@@ -1,0 +1,26 @@
+{
+    "name": "Global uniques",
+    "uniques": [
+        "[-75]% growth [in all cities] <when between [-10] and [-1] Happiness>",
+        "Nullifies Growth [in all cities] <when below [-10] Happiness>",
+        "[-50]% [Production] [in all cities] <when below [-10] Happiness>",
+        "[-33]% Strength <for [All] units> <when below [-10] Happiness>",
+        "Cannot build [Settler] units <when below [-10] Happiness>",
+        "Rebel units may spawn <when below [50] Happiness>","Rebel units may spawn <when below [29] Happiness>","Rebel units may spawn <when below [28] Happiness>","Rebel units may spawn <when below [27] Happiness>","Rebel units may spawn <when below [26] Happiness>","Rebel units may spawn <when below [25] Happiness>","Rebel units may spawn <when below [24] Happiness>","Rebel units may spawn <when below [23] Happiness>","Rebel units may spawn <when below [22] Happiness>","Rebel units may spawn <when below [21] Happiness>","Rebel units may spawn <when below [20] Happiness>","Rebel units may spawn <when below [19] Happiness>","Rebel units may spawn <when below [18] Happiness>","Rebel units may spawn <when below [17] Happiness>","Rebel units may spawn <when below [16] Happiness>","Rebel units may spawn <when below [14] Happiness>","Rebel units may spawn <when below [13] Happiness>","Rebel units may spawn <when below [12] Happiness>","Rebel units may spawn <when below [11] Happiness>","Rebel units may spawn <when below [10] Happiness>","Rebel units may spawn <when below [9] Happiness>","Rebel units may spawn <when below [8] Happiness>","Rebel units may spawn <when below [7] Happiness>","Rebel units may spawn <when below [6] Happiness>","Rebel units may spawn <when below [5] Happiness>",
+        "[-1] Sight <for [Embarked] units>",
+
+        // TODO: Implement the uniques below
+        // "[+20]% [Culture] [in all cities] <during a golden age>",
+        // "[+20]% [Production] [in all cities] <during a golden age>",
+
+        // "[+10]% growth [in all cities] <during We Love The King Day>",
+
+        // "Nullifies All Yield <while is in resistance>",
+
+        // "[-25]% [Science] [in pupetted cities]" -- Imo cityFilters should ideally become conditionals anyway
+        // "[-25]% [Culture] [in pupetted cities]"
+
+        // "[+20]% [Production] [in cities connected via railroad]"
+        // something something unit supply
+    ]
+}

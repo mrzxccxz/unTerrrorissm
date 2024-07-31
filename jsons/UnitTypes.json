@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Mounted",
+        "movementType": "Land"
+        "uniques": ["[-66]% Strength <vs cities> <when attacking>"]
+    },
+    {
+        "name": "Siege",
+        "movementType": "Land"
+        "uniques": [
+            "[+200]% Strength <when attacking>"]
+    }
+]
